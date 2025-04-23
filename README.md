@@ -63,5 +63,3 @@ National Institute of Technology, Kurukshetra
 - 💼 LinkedIn: [Sanskar Seth](https://linkedin.com/in/sanskar-seth-4836ba311)  
 - 🐙 GitHub: [@sethjiii](https://github.com/sethjiii)
 
-<!-- Optional GitHub Stats -->
-![Sanskar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sethjiii&show_icons=true&theme=radical)
