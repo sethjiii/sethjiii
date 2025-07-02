@@ -58,7 +58,7 @@ National Institute of Technology, Kurukshetra
 
 ## 📫 Reach Me
 
-- 🌐 Portfolio: [sanskarseth.vercel.com](https://sanskarseth.vercel.com)  
+- 🌐 Portfolio: [sanskarseth.vercel.app](https://sanskarseth.vercel.app)  
 - 📧 Email: [sanskarseth16@gmail.com](mailto:sanskarseth16@gmail.com)  
 - 💼 LinkedIn: [Sanskar Seth](https://linkedin.com/in/sanskar-seth-4836ba311)  
 - 🐙 GitHub: [@sethjiii](https://github.com/sethjiii)
