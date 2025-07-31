@@ -21,7 +21,7 @@ I'm a **Full-Stack Developer** passionate about building impactful FinTech, AI, 
 
 - 🌍 **[TravelXp](https://github.com/sethjiii/travelxp)**  
   Full-stack travel platform with multi-role access and Razorpay integration  
-  `React` · `Node.js` · `MongoDB` · `Express` · `JWT Auth` · `Vercel`
+  `Next.js` · `Node.js` · `MongoDB` · `Express` · `JWT Auth` · `Vercel`
 
 - 📚 **[JEESANKALP](https://jeesankalp.com/)**  
   Adaptive learning system for JEE & NEET aspirants (10k+ users)  
