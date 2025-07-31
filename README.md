@@ -19,7 +19,7 @@ I'm a **Full-Stack Developer** passionate about building impactful FinTech, AI, 
   NFT-based fractional land ownership platform  
   `Next.js` · `MongoDB` · `Solidity` · `Web3.js` · `Docker` · `Vercel`
 
-- 🌍 **[TravelXp](https://github.com/sethjiii/travelxp)**  
+- 🌍 **[TravelXec](https://github.com/sethjiii/travelxec)**  
   Full-stack travel platform with multi-role access and Razorpay integration  
   `Next.js` · `Node.js` · `MongoDB` · `Express` · `JWT Auth` · `Vercel`
 
